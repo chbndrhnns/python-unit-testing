@@ -8,6 +8,7 @@ name = "pypi"
 [packages]
 pytest-cov = "*"
 pytest-watch = "*"
+pytest-mock = "*"
 
 [requires]
 python_version = "3.7"
